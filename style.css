@@ -1,0 +1,221 @@
+.logo{
+    width: 150px;
+}
+nav{
+    height: 80px;
+    width: 100%vw;
+    padding-top: 20px;
+    position: fixed;
+
+}
+.navbar{
+}
+.headtag{
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 80px;
+    color: black;
+}
+.headtag1{
+text-decoration: none;
+color: black;
+}
+.searchbar{
+    margin-left: 250px;
+    width: 500px;
+    border-radius: 10px;
+    text-align: center;
+}
+.accountpage{
+    margin-left: 300px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+.accountpage1{
+    text-decoration: none;
+    color: black;
+}
+.divbrowse{
+    text-decoration: none;
+    color: black;
+}
+.sidediv{
+    text-align: center;
+    height: 100%vh;
+    width: 150px;
+    margin-top: 20px;
+    padding: px;
+    border-right: 1px solid black;
+    position: absolute;
+}
+.sidedivhead{
+    opacity: 0.5;
+}
+.sidedivhead1{
+    opacity: 0.5;
+}
+footer
+{
+    background-color: rgb(189, 210, 228);
+    height: 100px;
+    z-index: 1;
+    margin-top: 2.5%;
+}
+.songgrid{
+justify-content: center;
+position: absolute;
+justify-items: center;
+}
+.divsongid1{
+    margin-left: 250px;
+    height: 300px;
+    display: flex;
+    position: absolute;
+}
+.divsongid2{
+    margin-left: 450px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+}
+.divsongid3{
+    margin-left: 650px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+}
+.divsongid4{
+    margin-left: 850px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+
+}
+.divsongid5{
+    margin-left: 1050px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+}
+.divsongid6{
+    margin-left: 1250px;
+    height: 200px;
+    display: flex;
+
+}
+.divsongid7{
+    margin-left: 250px;
+    height: 300px;
+    display: flex;
+    position: absolute;
+    padding-top:50px ;
+}
+.divsongid8{
+    margin-left: 450px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    padding-top:50px ;
+}
+.divsongid9{
+    margin-left: 650px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    padding-top:50px ;
+}
+.divsongid10{
+    margin-left: 850px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    padding-top:50px ;
+
+}
+.divsongid11{
+    margin-left: 1050px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    padding-top:50px ;
+}
+.divsongid12{
+    margin-left: 1250px;
+    height: 200px;
+    display: flex;
+    padding-top:50px ;
+
+}
+.imagetag{
+    height: 170px;
+}
+.divforsong{
+    font-size: 20px;
+    opacity: 0.7;
+}
+.divforsong1{
+    margin-left: 300px;
+    padding-top: 190px;
+    position: absolute;
+
+}
+.divforsong2{
+    margin-left: 470px;
+    padding-top: 190px;
+    position: absolute;
+}
+.divforsong3{
+    padding-top: 190px;
+    margin-left: 670px;
+    position: absolute;
+}
+.divforsong4{
+    padding-top: 190px;
+    margin-left: 870px;
+    position: absolute;
+}
+.divforsong5{
+    padding-top: 190px;
+    margin-left: 1050px;
+    position: absolute;
+}
+.divforsong6{
+    padding-top: 190px;
+    margin-left: 1250px;
+    font-size: 40px;
+    
+}
+.divforsong7{
+    padding-top: 210px;
+    margin-left: 265px;
+    position: absolute;
+}
+.divforsong8{
+    padding-top: 210px;
+    margin-left: 450px;
+    position: absolute;
+}
+.divforsong9{
+    padding-top: 210px;
+    margin-left: 650px;
+    position: absolute;
+}
+.divforsong10{
+    padding-top: 210px;
+    margin-left: 850px;
+    position: absolute;
+}
+.divforsong11{
+    padding-top: 210px;
+    margin-left: 1050px;
+    position: absolute;
+}
+.divforsong12{
+    padding-top: 210px;
+    margin-left: 1250px;
+}
+button{
+    border: none;
+height: 230px;
+}
